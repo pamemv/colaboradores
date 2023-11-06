@@ -1,0 +1,11 @@
+#root {
+  height: 100vh;
+}
+
+td {
+  text-align: center;
+}
+
+.mt-custom {
+  margin-top: 100px;
+}
